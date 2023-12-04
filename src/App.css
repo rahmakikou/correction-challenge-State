@@ -1,0 +1,48 @@
+.felsa {
+  color: indigo; 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+  padding: 8px; 
+  margin-left: 200px; 
+   
+   
+}
+
+.felsa2 {
+  color: rgb(134, 50, 194); 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: x-large;
+   
+   
+   
+}
+
+input {
+  font-size: x-large;
+  background-color: bisque; 
+  margin-left: 50px;   
+}
+
+h2 {
+  color: plum; 
+  font-family: Cambria, Cochin, Georgia, Times, 
+  'Times New Roman', serif;
+text-transform: uppercase; 
+text-align: center; 
+} 
+
+h1 {
+color: palevioletred;
+font-size: xx-large;
+text-align: center; 
+}
+
+.case {
+  padding: 20px; 
+  margin: 50px; 
+}
+
+
+.under{
+  text-decoration: line-through;
+}
